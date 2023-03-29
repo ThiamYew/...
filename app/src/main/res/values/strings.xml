@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AboutMePracticalG356</string>
+    <string name="name">Thiam Yew</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio_text">
+        At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident,
+        \n\nsimilique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.
+        \n\nNam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus,
+        \n\nomnis voluptas assumenda est, omnis dolor repellendus.
+        \n\nTemporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
+        \n\nItaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname</string>
+    <string name="done">Done</string>
+</resources>
